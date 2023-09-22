@@ -68,11 +68,9 @@ Click below for Video Demonstrations:
    <br />   
    
    
-This is the end of the tutorial. I hope it helped you out!
     
    
    
-   <h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
    
    
    
